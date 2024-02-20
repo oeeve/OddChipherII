@@ -1,15 +1,5 @@
 <a name="readme-top"></a>
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/oeeve">
-    <img src="odd.png" alt="Logo" width="450" height="148">
-  </a>
-<br />
-</div>
-
-
 <!-- ABOUT THE PROJECT -->
 ## OddChipherII.exe
 A Small executable based on PyQt5 (testing the native looks). Plays music and encodes secrets. // A base executable for multiple UC2DIN10 Registry tests.
@@ -46,17 +36,8 @@ Building on **macOS** or **Linux**:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-
-
-
-
 `Until next time...`
 
   <a href="https://github.com/oeeve">
-    <img src="README/4Fsq2.png" alt="Logo" width="80" height="80">
+    <img src="readme/4Fsq2.png" alt="Logo" width="80" height="80">
   </a>
-
-
-

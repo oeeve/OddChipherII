@@ -10,7 +10,9 @@ A Small executable based on PyQt5 (testing the native looks). Plays music and en
 
 
 Download the executables for quick testing:
-[Windows](readme/OddChipherII.exe) | [Mac](readme/OddChipherII.app/)
+
+[![Download](https://custom-icon-badges.demolab.com/badge/Windows-5E5E5E?style=flat&logo=download&logoColor=white)](https://github.com/oeeve/OddChipherII/raw/main/readme/OddChipherII.exe)
+[![Download](https://custom-icon-badges.demolab.com/badge/Mac-5E5E5E?style=flat&logo=download&logoColor=white)](https://github.com/oeeve/OddChipherII/raw/main/readme/OddChipherII.app.zip)
 
 
 <!-- Prerequisites -->
@@ -33,6 +35,11 @@ Building on **macOS** or **Linux**:
    ```
 
    Tested [UPX](https://upx.github.io), but it did litte/nothing for size or startupt speed, but increased the likelihood of the .exe being flagged by windows defender. (can just be left out). (signtool and a CA certificate should be used for a proper  --onefile executable).
+
+<!-- Demo -->
+### Demo
+[![OddChipherII](readme/vid.png)](https://vimeo.com/914712063/081afeb949?share=copy)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
